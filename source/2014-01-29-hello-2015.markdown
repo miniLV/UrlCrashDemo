@@ -1,0 +1,23 @@
+---
+layout:     post
+title:      "Welcome to miniLV Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-01-28 12:00:00
+author:     "miniLV"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 序章
+---
+
+> “Talk is cheap. Show me the code”
+
+
+## 前言
+
+miniLV 的 Blog 就这么开通了。
+
+之前有用 hexo 搭了一个个人博客，后来发现 [Hux](https://github.com/Huxpro/huxpro.github.io) 的这个主题才是我想要的，同时他用的是 [jekyll](https://jekyllrb.com/)，一个push操作，解决一切烦恼~
+
+这样，miniLV 愉快的个人博客生涯从此开始了...
+
+![](https://user-gold-cdn.xitu.io/2019/1/30/1689d7a1f0b211d9?w=720&h=720&f=jpeg&s=32610)

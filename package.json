@@ -1,0 +1,25 @@
+{
+  "name": "github_images_minilv",
+  "version": "1.0.0",
+  "description": "minilv save blog images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miniLV/github_images_miniLV.git"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "miniLV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miniLV/github_images_miniLV/issues"
+  },
+  "homepage": "https://github.com/miniLV/github_images_miniLV#readme",
+  "dependencies": {
+    "markdown-img-down-site-change": "^1.3.3"
+  }
+}
