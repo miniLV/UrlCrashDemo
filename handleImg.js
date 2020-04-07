@@ -19,7 +19,8 @@ let option = {
     replace_image_url: 'https://user-gold-cdn.xitu.io/',
     read_markdown_src: './source', // 要查找markdown文件的文件夹地址
     down_img_src: './juejin', // 下载图片到这个文件夹
-    var_number: 3 // url前半部分的变量数量 比如上面的日期: /2019/5/20/、/2018/6/16/
+    var_number: 3, // url前半部分的变量数量 比如上面的日期: /2019/5/20/、/2018/6/16/
+    test: false
 }
 
 // 初始化
@@ -34,7 +35,7 @@ markdownImage.checkDownImg();
 // 脚本会把以前的外链替换成云端地址+拼接一个图片名
 markdownImage.updateOption({
     // new_image_url: 'https://xxx.com/juejin/', // 图片上传的地址
-    new_image_url: 'https://github.com/miniLV/github_images_miniLV/',
+    new_image_url: 'https://github.com/miniLV/github_images_miniLV/juejin/',
     add_end: '?raw=true' // github图片地址有后缀 直接进去是仓库
 })
 
