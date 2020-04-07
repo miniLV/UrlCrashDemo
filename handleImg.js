@@ -35,7 +35,7 @@ markdownImage.checkDownImg();
 // 脚本会把以前的外链替换成云端地址+拼接一个图片名
 markdownImage.updateOption({
     // new_image_url: 'https://xxx.com/juejin/', // 图片上传的地址
-    new_image_url: 'https://github.com/miniLV/github_images_miniLV/',
+    new_image_url: 'https://github.com/miniLV/github_images_miniLV/juejin/',
     add_end: '?raw=true' // github图片地址有后缀 直接进去是仓库
 })
 
